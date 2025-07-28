@@ -48,6 +48,14 @@
     style="padding-right: 10px;" 
     src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" 
 />
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AReact-icon.svg&psig=AOvVaw028UzgiYD3zgc3dVa9a6a3&ust=1753831955463000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC36Kbb4I4DFQAAAAAdAAAAABAL" 
+/>
 
 <br/>
 <br/>
