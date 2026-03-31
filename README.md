@@ -1,83 +1,51 @@
 # Isaque Matarazzo
 
-**🇧🇷** Me chamo Isaque da Silva Andrade Matarazzo, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na UNIP Sorocaba. Sou apaixonado por tecnologia e compartilho meus conhecimentos tanto aqui quanto no [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), onde mostro minha carreira completa!
+*🇧🇷* Me chamo Isaque da Silva Andrade Matarazzo, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na UNIP Sorocaba. Sou apaixonado por tecnologia e compartilho meus conhecimentos tanto aqui quanto no [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), onde mostro minha carreira completa!
 
-**🇺🇸** My name is Isaque da Silva Andrade Matarazzo, I'm 18 years old and I'm from São Paulo. I'm currently studying Computer Science at UNIP Sorocaba. I'm passionate about technology and I share my knowledge both here and on [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), where I show my complete career!
+*🇺🇸* My name is Isaque da Silva Andrade Matarazzo, I'm 18 years old and I'm from São Paulo. I'm currently studying Computer Science at UNIP Sorocaba. I'm passionate about technology and I share my knowledge both here and on [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), where I show my complete career!
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/512/dart.png" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png)" 
-/>
+###
 
-<br/>
-<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/isaque-matarazzo-808891349?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_zaquee?igsh=MWduaTV6NDRhM3RndQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
----
+###
 
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevIsaque&show_icons=true&theme=dracula&hide_border=true" 
-  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devisaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIsaque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=10&hide_border=true" 
-  />
+###
 
-</p>
+
+
+
 
