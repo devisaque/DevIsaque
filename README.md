@@ -35,16 +35,17 @@
   <a href="https://www.instagram.com/_zaquee?igsh=MWduaTV6NDRhM3RndQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</div>
+
+
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devisaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=devisaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="600" alt="streak graph"  />
 </div>
 
 ###
-
+</div><img width="1280" height="353" alt="image (1)" src="https://github.com/user-attachments/assets/ecdaab2c-f081-4933-b92d-3946af7cc42c" />
 
 
 
